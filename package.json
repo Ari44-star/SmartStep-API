@@ -1,0 +1,14 @@
+{
+  "name": "smartstep-api",
+  "version": "1.0.0",
+  "description": "API para el proyecto SmartStep",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "Ariatna Deloya",
+  "license": "ISC"
+}
