@@ -18,7 +18,7 @@ let datosSensor = {
 };
 
 app.get('/', (req, res) => {
-  res.send('API de SmartStep funcionando correctamente');
+  res.send('API funcionando - Version 2');
 });
 
 // 1. RUTA PARA LA APP (Leer datos)
